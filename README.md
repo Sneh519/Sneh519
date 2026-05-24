@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Your Name
+# Hi there 👋 I'm Sneh Ranjan
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Open+Source+Enthusiast;AI+%26+Web+Developer;Always+Learning+New+Things" alt="Typing SVG" />
